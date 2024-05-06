@@ -1,0 +1,76 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+51.120.240.115,2087,443,true,CPH,Europe,Copenhagen,226,8.76
+51.120.240.115,8080,443,true,CPH,Europe,Copenhagen,235,8.68
+4.223.160.199,8443,443,true,ARN,Europe,Stockholm,206,8.60
+4.223.160.199,2053,443,true,ARN,Europe,Stockholm,225,8.41
+20.84.118.215,8443,443,true,IAD,North America,Ashburn,222,8.38
+20.220.204.217,443,443,true,YYZ,North America,Toronto,219,8.34
+20.119.73.200,80,80,false,IAD,North America,Ashburn,222,8.32
+40.66.63.160,80,80,false,CDG,Europe,Paris,171,7.93
+51.107.6.138,8443,443,true,MXP,Europe,Milan,216,7.90
+13.68.186.91,443,443,true,IAD,North America,Ashburn,283,7.81
+20.75.178.96,443,443,true,IAD,North America,Ashburn,236,7.64
+20.246.144.214,443,443,true,IAD,North America,Ashburn,227,7.55
+172.190.150.25,8443,443,true,IAD,North America,Ashburn,226,7.48
+20.84.118.215,2053,443,true,IAD,North America,Ashburn,231,7.46
+51.140.154.44,2086,2086,false,LHR,Europe,London,183,7.34
+51.107.13.85,8443,443,true,MXP,Europe,Milan,186,7.33
+51.140.191.188,2086,2086,false,LHR,Europe,London,178,7.23
+51.107.6.220,8443,443,true,MXP,Europe,Milan,178,7.14
+20.58.24.221,2086,2086,false,LHR,Europe,London,184,7.10
+51.140.44.206,2086,2086,false,LHR,Europe,London,181,6.95
+20.246.127.166,443,443,true,IAD,North America,Ashburn,221,6.36
+51.107.6.231,8443,443,true,MXP,Europe,Milan,182,6.25
+172.208.36.45,80,443,true,IAD,North America,Ashburn,238,5.96
+51.107.6.128,8443,443,true,MXP,Europe,Milan,183,5.73
+172.208.36.45,443,443,true,IAD,North America,Ashburn,234,5.50
+20.221.32.145,443,443,true,ORD,North America,Chicago,201,5.17
+20.170.41.153,443,443,true,FRA,Europe,Frankfurt,180,3.11
+20.203.143.117,2052,80,false,ZRH,Europe,Zurich,178,2.80
+20.203.143.117,2087,80,false,ZRH,Europe,Zurich,178,2.80
+20.203.143.117,2086,80,false,ZRH,Europe,Zurich,177,2.74
+20.170.91.53,443,80,false,FRA,Europe,Frankfurt,184,2.73
+20.203.143.117,2053,80,false,ZRH,Europe,Zurich,178,2.73
+20.203.143.114,2095,80,false,ZRH,Europe,Zurich,177,2.72
+20.203.143.112,2096,80,false,ZRH,Europe,Zurich,177,2.56
+20.203.143.117,2095,80,false,ZRH,Europe,Zurich,174,2.55
+20.203.143.112,2082,80,false,ZRH,Europe,Zurich,175,2.47
+20.203.143.114,2086,80,false,ZRH,Europe,Zurich,183,2.46
+51.107.211.178,2095,80,false,CPH,Europe,Copenhagen,202,2.39
+51.107.211.177,2083,80,false,CPH,Europe,Copenhagen,202,2.39
+51.107.211.178,2086,80,false,CPH,Europe,Copenhagen,202,2.38
+51.107.211.178,2096,80,false,CPH,Europe,Copenhagen,205,2.37
+51.107.211.177,2095,80,false,CPH,Europe,Copenhagen,204,2.36
+20.203.143.117,2083,80,false,ZRH,Europe,Zurich,177,2.36
+20.203.143.117,2096,80,false,ZRH,Europe,Zurich,178,2.36
+20.203.143.112,2083,80,false,ZRH,Europe,Zurich,175,2.35
+51.107.211.177,2053,80,false,CPH,Europe,Copenhagen,204,2.35
+51.107.211.177,2087,80,false,CPH,Europe,Copenhagen,203,2.35
+51.107.211.177,2082,80,false,CPH,Europe,Copenhagen,204,2.34
+20.203.143.112,2095,80,false,ZRH,Europe,Zurich,178,2.33
+20.203.143.112,2086,80,false,ZRH,Europe,Zurich,179,2.33
+20.203.143.112,2052,80,false,ZRH,Europe,Zurich,178,2.33
+51.107.211.178,2082,80,false,CPH,Europe,Copenhagen,202,2.32
+51.107.211.177,2086,80,false,CPH,Europe,Copenhagen,202,2.31
+20.203.143.114,2087,80,false,ZRH,Europe,Zurich,174,2.25
+51.107.211.177,2096,80,false,CPH,Europe,Copenhagen,202,2.20
+51.107.211.178,2053,80,false,CPH,Europe,Copenhagen,201,2.19
+51.107.211.178,2087,80,false,CPH,Europe,Copenhagen,202,2.16
+51.107.211.178,2052,80,false,CPH,Europe,Copenhagen,201,2.15
+51.107.211.178,2083,80,false,CPH,Europe,Copenhagen,203,2.15
+51.107.211.177,2052,80,false,CPH,Europe,Copenhagen,202,1.98
+20.203.143.112,2087,80,false,ZRH,Europe,Zurich,177,1.95
+20.203.143.114,2083,80,false,ZRH,Europe,Zurich,177,1.94
+20.203.143.114,2053,80,false,ZRH,Europe,Zurich,177,1.93
+20.203.143.114,2052,80,false,ZRH,Europe,Zurich,178,1.93
+20.203.143.114,2096,80,false,ZRH,Europe,Zurich,179,1.92
+20.203.143.114,2082,80,false,ZRH,Europe,Zurich,179,1.83
+20.203.143.112,2053,80,false,ZRH,Europe,Zurich,177,1.61
+20.203.143.117,2082,80,false,ZRH,Europe,Zurich,177,1.57
+20.204.43.57,80,443,false,BOM,Asia Pacific,Mumbai,49,0.05
+51.143.162.160,80,80,false,LHR,Europe,London,178,0.02
+137.116.251.154,80,443,false,DUB,Europe,Dublin,193,0.02
+20.245.7.79,443,443,true,SJC,North America,San Jose,169,0.00
+20.83.149.174,443,443,true,IAD,North America,Ashburn,222,0.00
+4.255.56.137,443,443,true,IAD,North America,Ashburn,223,0.00
+20.8.25.234,8080,80,false,AMS,Europe,Amsterdam,241,0.00
